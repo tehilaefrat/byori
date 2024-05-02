@@ -1,0 +1,21 @@
+.chartContainer {
+    height: 300px;
+    width: 100%;
+}
+
+body {
+    background-image: url("https://previews.123rf.com/images/anasteisha/anasteisha1803/anasteisha180300101/97451380-cryptocurrency-seamless-pattern-crypto-currency-background-vector-illustration.jpg");
+min-height: 500px;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.about-content {
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+}
+.search-form {
+    justify-content: flex-end;
+}
